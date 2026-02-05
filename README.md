@@ -8,4 +8,6 @@
 - [代码随想录](https://programmercarl.com/)
 - [Exercism](https://exercism.org/)
 - [HackerRank](https://www.hackerrank.com/domains/python)
+- [AcWing](https://www.acwing.com/)
+- [洛谷](https://www.luogu.com.cn/)
 - 💗
